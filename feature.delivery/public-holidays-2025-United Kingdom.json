@@ -1,0 +1,93 @@
+{
+  "product": "United Kingdom Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the New Year"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-10T12:00:00",
+      "endDate": "2025-04-10T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2025",
+      "style": "purple",
+      "description": "Observance of Good Friday"
+    },
+    {
+      "title": "Easter Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-13T12:00:00",
+      "endDate": "2025-04-13T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2025",
+      "style": "pink",
+      "description": "Observance of Easter Monday"
+    },
+    {
+      "title": "May Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-05T12:00:00",
+      "endDate": "2025-05-05T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2025",
+      "style": "teal",
+      "description": "Celebration of May Day"
+    },
+    {
+      "title": "Spring Bank Holiday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-26T12:00:00",
+      "endDate": "2025-05-26T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2025",
+      "style": "green",
+      "description": "Observance of Spring Bank Holiday"
+    },
+    {
+      "title": "Summer Bank Holiday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-08-25T12:00:00",
+      "endDate": "2025-08-25T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2025",
+      "style": "yellow",
+      "description": "Observance of Summer Bank Holiday"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of Christmas Day"
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-26T12:00:00",
+      "endDate": "2025-12-26T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2025",
+      "style": "orange",
+      "description": "Observance of Boxing Day"
+    }
+  ]
+}
